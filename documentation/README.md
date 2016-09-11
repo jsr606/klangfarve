@@ -27,3 +27,5 @@ DMX -> RGBW controller by solid apollo: http://www.solidapollo.com/ichroma-dmx-r
 all code written in arduino: https://www.arduino.cc/
 
 Arduino library for leddar one: http://playground.arduino.cc/Code/Leddar
+
+DMX simple library: https://code.google.com/archive/p/tinkerit/wikis/DmxSimple.wiki
