@@ -11,5 +11,6 @@ indoor:
 distance sensor: leddar one fra leddar tech: http://leddartech.com/modules/leddarone/
 
 #SOFTWARE
-add code written in arduino: https://www.arduino.cc/
+
+all code written in arduino: https://www.arduino.cc/
 Arduino library for leddar one: http://playground.arduino.cc/Code/Leddar
