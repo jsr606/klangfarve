@@ -1,0 +1,31 @@
+Terms of License (LeddarTM Arduino Library) :
+
+Permission is hereby granted, free of charge, to the User and any person
+obtaining a copy of this Software and associated documentation files, to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+under the condition that the following notice is included in all copies or
+substantial portions of the Software:
+
+“The LeddarTM Arduino Library is licensed under the terms of the MIT License,
+as is without any warranty. Copyright©LeddarTech, Inc. 2014”
+
+The SOFTWARE IS LICENSED TO USER ON AN “AS IS” BASIS AND WITHOUT ANY
+WARRANTY OF ANY KIND. LeddarTech expressly disclaims all representations,
+warranties, guarantees and conditions of any kind, express or implied, including
+without limitation representations, warranties, guarantees and/or conditions as
+to uninterrupted or error-free service, accessibility, security,
+merchantability, non-infringement of third party rights, quality or fitness for
+a particular purpose and those arising by statue or otherwise, or from a course
+of dealing or usage or trade.
+
+This Agreement shall be governed by, interpreted, construed and enforced in
+accordance with the Provincial and Federal laws applicable in the Province of
+Québec, Canada, which laws shall apply and bind the parties for any matter
+relating thereto. Without limitation, this Agreement excludes any conflict of
+laws or principle that might refer the governance or construction of this
+Agreement to the laws of another jurisdiction. All matters or claims relating
+hereto shall be submitted to the court of the appropriate jurisdiction in the
+judicial district of Quebec, Province of Quebec, Canada, for the purpose of this
+agreement and for all related proceedings.

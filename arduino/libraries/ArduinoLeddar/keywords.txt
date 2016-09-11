@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for Leddar
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Leddar			KEYWORD1
+Detection	 	KEYWORD1
+LeddarOne	 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getDetections	KEYWORD2
+clearDetections	KEYWORD2
+init			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
