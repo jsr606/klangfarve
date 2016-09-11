@@ -18,6 +18,10 @@ indoor:
 
 distance sensor: leddar one fra leddar tech: http://leddartech.com/modules/leddarone/
 
+## LED controller
+
+DMX -> RGBW controller by solid apollo: http://www.solidapollo.com/ichroma-dmx-rgbw-led-controller.html
+
 #SOFTWARE
 
 all code written in arduino: https://www.arduino.cc/
